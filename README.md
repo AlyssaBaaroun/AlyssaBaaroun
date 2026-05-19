@@ -17,21 +17,20 @@
  
 ---
  
-## File — About
+## File About
  
 ```js
 const alyssa = {
-  status     : "Student in web development",
-  passion    : ["UI/UX", "Clean Code", "Creative Design"],
-  learning   : ["TypeScript", "React", "Advanced WordPress"],
-  tools      : ["PhpStorm", "Figma", "VS Code"],
-  fun_fact   : "I spend as much time on Figma as in my code editor"
+  status: "Student in web development",
+  passion: ["UI/UX", "Clean Code", "Creative Design"],
+  learning: ["TypeScript", "PHP", "WordPress", "JavaScript"],
+  tools: ["PhpStorm", "Figma", "VS Code"],
 };
 ```
  
 ---
  
-## Analysis — Stack & tools
+## Analysis Stack & tools
  
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,php,wordpress,figma,phpstorm&perline=8)](https://skillicons.dev)
  
@@ -60,5 +59,5 @@ const alyssa = {
 *"Code is poetry with semicolons;"*
  
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=810100&height=120&section=footer&animation=fadeIn&fontColor=EDEBDD)
- 
-![Hits](https://hits.sh/github.com/AlyssaBaaroun/AlyssaBaaroun.svg?color=810100&labelColor=1a1a1a) 
+
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=page.id)
