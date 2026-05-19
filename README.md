@@ -60,4 +60,4 @@ const alyssa = {
  
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=810100&height=120&section=footer&animation=fadeIn&fontColor=EDEBDD)
 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=page.id)
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=AlyssaBaaroun.AlyssaBaaroun)
