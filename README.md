@@ -61,5 +61,4 @@ const alyssa = {
  
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=810100&height=120&section=footer&animation=fadeIn&fontColor=EDEBDD)
  
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=page.id)
- 
+![Hits](https://hits.sh/github.com/AlyssaBaaroun/AlyssaBaaroun.svg?color=810100&labelColor=1a1a1a) 
