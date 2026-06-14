@@ -36,12 +36,6 @@ const alyssa = {
  
 ---
  
-## Activity report
- 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AlyssaBaaroun&theme=tokyo-night&hide_border=true&color=EDEBDD&line=810100&point=EDEBDD&bg_color=1a1a1a)
- 
----
- 
 ## Active missions
  
 - Strengthening the foundations — active web projects
