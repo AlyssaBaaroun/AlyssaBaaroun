@@ -47,7 +47,6 @@ const alyssa = {
 ## Contact
  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%23810100.svg?style=for-the-badge&logo=linkedin&logoColor=EDEBDD)](https://www.linkedin.com/in/alyssa-b-478010295)
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23810100.svg?style=for-the-badge&logo=firefox&logoColor=EDEBDD)](https://ton-portfolio.com)
 [![Email](https://img.shields.io/badge/Email-%23810100.svg?style=for-the-badge&logo=gmail&logoColor=EDEBDD)](mailto:baarounalyssa@gmail.com)
  
 *"Code is poetry with semicolons;"*
