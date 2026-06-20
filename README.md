@@ -6,7 +6,7 @@
 ║──────────────────────────────────────────────────────────║
 ║  IDENTITY     : Alyssa Baaroun                           ║
 ║  STATUS       : Student in web development               ║
-║  LEVEL        : In training skills leveling up         ║
+║  LEVEL        : In training skills leveling up           ║
 ║  SPECIALTY    : Web interfaces & creative design         ║
 ║  LOCATION     : [DATA REDACTED]                          ║
 ║──────────────────────────────────────────────────────────║
