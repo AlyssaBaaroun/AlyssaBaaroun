@@ -30,9 +30,15 @@ const alyssa = {
  
 ---
  
-## Analysis Stack & tools
+## Stack & tools for dev
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,php,wordpress,figma,sql,phpstorm&perline=8)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,php,wordpress,figma,mysql,phpstorm&theme=light)](https://skillicons.dev)
+
+--
+
+## Stack & tools for design
+
+[![My Skills](https://skillicons.dev/icons?i=figma,ps&theme=light)](https://skillicons.dev)
 
 --
  
