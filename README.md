@@ -31,10 +31,10 @@ const alyssa = {
 ---
  
 ## Analysis Stack & tools
- 
+
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,php,wordpress,figma,sql,phpstorm&perline=8)](https://skillicons.dev)
- 
----
+
+--
  
 ## Active missions
  
