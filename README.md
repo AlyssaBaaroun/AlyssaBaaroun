@@ -23,7 +23,7 @@
 const alyssa = {
   status: "Student in web development",
   passion: ["UI/UX", "Clean Code", "Creative Design"],
-  learning: ["TypeScript", "PHP", "WordPress", "JavaScript"],
+  learning: ["TypeScript", "PHP", "WordPress", "JavaScript", "SQL"],
   tools: ["PhpStorm", "Figma", "VS Code"],
 };
 ```
@@ -32,7 +32,7 @@ const alyssa = {
  
 ## Analysis Stack & tools
  
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,php,wordpress,figma,phpstorm&perline=8)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,php,wordpress,figma,sql,phpstorm&perline=8)](https://skillicons.dev)
  
 ---
  
