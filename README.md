@@ -6,7 +6,7 @@
 ║──────────────────────────────────────────────────────────║
 ║  IDENTITY     : Alyssa Baaroun                           ║
 ║  STATUS       : Student in web development               ║
-║  LEVEL        : In training — skills leveling up         ║
+║  LEVEL        : In training skills leveling up         ║
 ║  SPECIALTY    : Web interfaces & creative design         ║
 ║  LOCATION     : [DATA REDACTED]                          ║
 ║──────────────────────────────────────────────────────────║
@@ -23,7 +23,7 @@
 const alyssa = {
   status: "Student in web development",
   passion: ["UI/UX", "Clean Code", "Creative Design"],
-  learning: ["TypeScript", "PHP", "WordPress", "JavaScript", "SQL"],
+  learning: ["TypeScript", "PHP", "WordPress", "JavaScript", "SQL", "DART", "FLUTTER"],
   tools: ["PhpStorm", "Figma", "VS Code"],
 };
 ```
