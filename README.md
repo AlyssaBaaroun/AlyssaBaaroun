@@ -32,7 +32,7 @@ const alyssa = {
  
 ## Stack & tools for dev
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,php,wordpress,figma,mysql,phpstorm&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,php,wordpress,mysql,phpstorm&theme=light)](https://skillicons.dev)
 
 
 ## Stack & tools for design
