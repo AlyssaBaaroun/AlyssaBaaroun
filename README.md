@@ -42,7 +42,7 @@ const alyssa = {
  
 ## Active missions
  
-- Strengthening the foundations — active web projects
+- Strengthening the foundations, active web projects
 - Deepening **TypeScript** & **PHP** best practices
 - Designing **Figma** mockups before integration
 - Exploring **WordPress** on the development side
