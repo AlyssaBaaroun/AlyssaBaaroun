@@ -12,9 +12,9 @@
 
 ```
 ██████████████████████████████████████████████████████████
-█                                                          █
-█   ▓▓▓▓▓▓▓  CENTRAL DEV AGENCY — PERSONNEL FILE  ▓▓▓▓▓▓▓  █
-█                                                          █
+█                                                        █
+█  ▓▓▓▓▓▓  CENTRAL DEV AGENCY — PERSONNEL FILE  ▓▓▓▓▓▓▓  █
+█                                                        █
 ██████████████████████████████████████████████████████████
   FILE Nº : 2025-WD-0801              DECLASSIFIED: PARTIAL
 ──────────────────────────────────────────────────────────
@@ -31,8 +31,6 @@
 ```
 
 <div align="center">
-
-*"Code is poetry with semicolons."*
 
 </div>
 
@@ -98,13 +96,6 @@ const subject = {
 
 </div>
 
-<br>
-
-```
-──────────────────────────────────────────────────────────
-  END OF FILE — UNAUTHORIZED ACCESS WILL BE LOGGED
-──────────────────────────────────────────────────────────
-```
 
 <div align="center">
 
