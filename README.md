@@ -12,7 +12,7 @@
 ### About me
 
 Web development student, passionate about clean code and building solid interfaces.
-Currently deepening my skills in **TypeScript, PHP, WordPress, SQL, Dart & Flutter**.
+Currently deepening my skills in **Dart, TypeScript, PHP, WordPress, SQL & Flutter**.
 
 ---
 
